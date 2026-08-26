@@ -304,3 +304,7 @@ Jangan langsung semuanya sekaligus. Kita lakukan:
 ```
 
 **Untuk sekarang fokus sampai nomor ⑥ dulu.** Setelah `mosquitto_sub` di Pi sudah bisa melihat berat dari ESP32, baru kita sentuh dashboard.
+
+## 🔗 Navigasi
+
+- [➡ Lanjut ke code ESP32](../firmware/esp32/final-v01.ino)
