@@ -307,4 +307,4 @@ Jangan langsung semuanya sekaligus. Kita lakukan:
 
 ## 🔗 Navigasi
 
-- [➡ Lanjut ke code ESP32](../firmware/esp32/final-v01.ino)
+- [➡ Lanjut ke code ESP32](../firmware/esp32)
