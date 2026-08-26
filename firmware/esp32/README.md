@@ -1,3 +1,3 @@
 ## 🔗 Navigasi
 
-- [⬅ Kembali ke Home](../README.md)
+- [⬅ Kembali ke Home](Embedded-Systems-Roadmap/README.md)
